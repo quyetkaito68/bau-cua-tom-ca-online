@@ -1,0 +1,8 @@
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhClient\bin\Debug\KhanhClient.exe
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhClient\bin\Debug\KhanhClient.pdb
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhClient\obj\Debug\KhanhClient.csproj.CoreCompileInputs.cache
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhClient\obj\Debug\KhanhClient.exe
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhClient\obj\Debug\KhanhClient.pdb
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhClient\obj\Debug\KhanhClient.BauCua.resources
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhClient\obj\Debug\KhanhClient.csproj.GenerateResource.cache
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhClient\obj\Debug\KhanhClient.csproj.AssemblyReference.cache

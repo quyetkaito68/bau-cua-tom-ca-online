@@ -1,0 +1,10 @@
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCua\bin\Debug\BauCua.exe
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCua\bin\Debug\BauCua.pdb
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCua\obj\Debug\BauCua.Properties.Resources.resources
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCua\obj\Debug\BauCua.csproj.GenerateResource.cache
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCua\obj\Debug\BauCua.csproj.CoreCompileInputs.cache
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCua\obj\Debug\BauCua.exe
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCua\obj\Debug\BauCua.pdb
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCua\obj\Debug\KhanhClient.BauCua.resources
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCua\obj\Debug\BauCua.BauCuaGame.resources
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCua\obj\Debug\BauCua.csproj.AssemblyReference.cache

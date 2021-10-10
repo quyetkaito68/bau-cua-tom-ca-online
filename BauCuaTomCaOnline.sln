@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BauCuaTomCaOnline", "BauCuaTomCaOnline\BauCuaTomCaOnline.csproj", "{354B7B89-311E-4287-9583-C34D6E7C6393}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BauCuaTomCaOnline", "BauCuaTomCaOnline\BauCuaTomCaOnline.csproj", "{354B7B89-311E-4287-9583-C34D6E7C6393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BauCua", "BauCua\BauCua.csproj", "{8BC91964-2633-47B1-AAB0-CEF247A8676C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BauCuaServer", "BauCuaServer\BauCuaServer.csproj", "{15B4255D-74A2-4F91-B188-4A43BD23AABC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{354B7B89-311E-4287-9583-C34D6E7C6393}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{354B7B89-311E-4287-9583-C34D6E7C6393}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{354B7B89-311E-4287-9583-C34D6E7C6393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC91964-2633-47B1-AAB0-CEF247A8676C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC91964-2633-47B1-AAB0-CEF247A8676C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC91964-2633-47B1-AAB0-CEF247A8676C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC91964-2633-47B1-AAB0-CEF247A8676C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B4255D-74A2-4F91-B188-4A43BD23AABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B4255D-74A2-4F91-B188-4A43BD23AABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B4255D-74A2-4F91-B188-4A43BD23AABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B4255D-74A2-4F91-B188-4A43BD23AABC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhServer\bin\Debug\KhanhServer.exe
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhServer\bin\Debug\KhanhServer.pdb
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhServer\obj\Debug\KhanhServer.csproj.CoreCompileInputs.cache
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhServer\obj\Debug\KhanhServer.exe
+D:\Baucuatomca\bau-cua-tom-ca-online\KhanhServer\obj\Debug\KhanhServer.pdb
