@@ -1,0 +1,16 @@
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\bin\Debug\net5.0\BauCuaTomCaOnline.exe
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\bin\Debug\net5.0\BauCuaTomCaOnline.deps.json
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\bin\Debug\net5.0\BauCuaTomCaOnline.runtimeconfig.json
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\bin\Debug\net5.0\BauCuaTomCaOnline.runtimeconfig.dev.json
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\bin\Debug\net5.0\BauCuaTomCaOnline.dll
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\bin\Debug\net5.0\ref\BauCuaTomCaOnline.dll
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\bin\Debug\net5.0\BauCuaTomCaOnline.pdb
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\obj\Debug\net5.0\BauCuaTomCaOnline.csprojAssemblyReference.cache
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\obj\Debug\net5.0\BauCuaTomCaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\obj\Debug\net5.0\BauCuaTomCaOnline.AssemblyInfoInputs.cache
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\obj\Debug\net5.0\BauCuaTomCaOnline.AssemblyInfo.cs
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\obj\Debug\net5.0\BauCuaTomCaOnline.csproj.CoreCompileInputs.cache
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\obj\Debug\net5.0\BauCuaTomCaOnline.dll
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\obj\Debug\net5.0\ref\BauCuaTomCaOnline.dll
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\obj\Debug\net5.0\BauCuaTomCaOnline.pdb
+C:\project\bau-cua-tom-ca-online\BauCuaTomCaOnline\obj\Debug\net5.0\BauCuaTomCaOnline.genruntimeconfig.cache
