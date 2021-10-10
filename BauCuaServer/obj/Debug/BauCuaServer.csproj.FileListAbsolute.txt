@@ -1,0 +1,9 @@
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCuaServer\obj\Debug\BauCuaServer.MayChu.resources
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCuaServer\obj\Debug\BauCuaServer.Properties.Resources.resources
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCuaServer\obj\Debug\BauCuaServer.csproj.GenerateResource.cache
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCuaServer\obj\Debug\BauCuaServer.csproj.CoreCompileInputs.cache
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCuaServer\bin\Debug\BauCuaServer.exe
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCuaServer\bin\Debug\BauCuaServer.pdb
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCuaServer\obj\Debug\BauCuaServer.exe
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCuaServer\obj\Debug\BauCuaServer.pdb
+D:\Baucuatomca\bau-cua-tom-ca-online\BauCuaServer\obj\Debug\BauCuaServer.csproj.AssemblyReference.cache
